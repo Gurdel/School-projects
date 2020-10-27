@@ -1,0 +1,7 @@
+font.zag { font-family: Castellar;
+font-size: 125;}
+body { background-image: url(image/3.png);}
+table {background-color: azure;
+position: center;
+width: 1200;}
+#1 {vertical-align: text-top;}

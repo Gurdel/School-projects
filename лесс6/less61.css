@@ -1,0 +1,6 @@
+#div1, #div2 {position: absolute;
+width: 320px;
+height: 320px;}
+#div1 {background-image: url(smale.jpeg);}
+#div2 {clip: rect(10px 240px 280px 20px);
+background-color: blue;}

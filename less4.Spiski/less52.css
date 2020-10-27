@@ -1,0 +1,10 @@
+ul {list-style: none;}
+li a {color: #fff;
+text-decoration: none;
+padding: 4px 7px;
+width: 120 px;
+background: #0076ba;
+display: block;
+border: 1px solid #fff;
+font-weight: bold:}
+li a:hover {background: #d36800}
